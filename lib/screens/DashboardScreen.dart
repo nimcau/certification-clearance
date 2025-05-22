@@ -27,7 +27,7 @@ class _DashboardscreenState extends State<Dashboardscreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'Welcome Sawda',
+                'Welcome nimco',
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
